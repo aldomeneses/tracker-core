@@ -1,0 +1,3 @@
+[submodule "tracker-web"]
+	path = tracker-web
+	url = https://github.com/aldomeneses/tracker-web.git
